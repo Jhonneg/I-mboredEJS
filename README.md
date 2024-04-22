@@ -8,4 +8,5 @@ Clone the repo
 
 cd into the repo
 
-Run `npm i` then run `nodemon index.js`
+Run `npm i && nodemon index.js` to start the project
+
