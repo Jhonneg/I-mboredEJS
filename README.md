@@ -3,7 +3,7 @@ This app will have a cold start, might take a while to load.
 
 # Made with
 
-[![Made with](https://skillicons.dev/icons?i=nodejs,express,ejs)](https://skillicons.dev)
+**Node, Express and EJS.**
 
 Clone the repo
 
